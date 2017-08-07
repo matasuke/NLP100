@@ -3,3 +3,10 @@
 *.mecab
 *.cabocha
 .ipynb_checkpoints/
+*.zip
+*.gz
+stanford-corenlp-full-2017-06-09/ 
+*.xml
+*.rdb
+*.tar
+rt-polaritydata/
